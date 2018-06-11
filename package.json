@@ -1,0 +1,9 @@
+{
+  "name": "materail-ui",
+  "version": "0.0.1",
+  "description": "Learn Materail UI ",
+  "main": "index.js",
+  "repository": "http://npm.taobao.org/mirrors/node",
+  "author": "zgs",
+  "license": "MIT"
+}
